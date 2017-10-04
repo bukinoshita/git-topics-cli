@@ -41,7 +41,7 @@ $ git-topics --help
 
 ## Related
 
-- [git-topics](htts://github.com/bukinoshita/git-topics) — API for this module
+- [git-topics](https://github.com/bukinoshita/git-topics) — API for this module
 
 
 ## License
