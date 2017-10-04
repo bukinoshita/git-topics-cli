@@ -6,7 +6,7 @@
 ## Install
 
 ```bash
-npm install -g git-topics
+npm install -g git-topics-cli
 ```
 
 
