@@ -34,6 +34,11 @@ $ git-topics --help
 ```
 
 
+## Demo
+
+<img src="demo.gif" alt="">
+
+
 ## Related
 
 - [git-topics](htts://github.com/bukinoshita/git-topics) — API for this module
