@@ -1,0 +1,33 @@
+{
+  "name": "git-topics-cli",
+  "version": "0.0.0",
+  "description": "Auto create Github topics for repositories",
+  "main": "index.js",
+  "repository": "https://github.com/bukinoshita/git-topics-cli.git",
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "keywords": ["github", "git", "topics", "topic", "repo", "repository", "cli"],
+  "bin": {
+    "git-topics": "index.js"
+  },
+  "scripts": {
+    "test": "xo --quiet"
+  },
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "inquirer": "^3.3.0",
+    "meow": "^3.7.0",
+    "save-local": "^0.0.1",
+    "shout-error": "^0.0.2",
+    "shout-message": "^0.0.2",
+    "shout-success": "^0.0.2",
+    "update-notifier": "^2.2.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^2.6.0",
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "extends": ["prettier"]
+  }
+}
