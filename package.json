@@ -1,6 +1,6 @@
 {
   "name": "git-topics-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Auto create Github topics for repositories",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/git-topics-cli.git",
