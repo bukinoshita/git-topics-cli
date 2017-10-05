@@ -755,9 +755,9 @@ get-stream@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/get-stream/-/get-stream-3.0.0.tgz#8e943d1358dc37555054ecbe2edb05aa174ede14"
 
-git-topics@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/git-topics/-/git-topics-0.0.1.tgz#a7998c57a9195ab299d95669d829539b6cc696ef"
+git-topics@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/git-topics/-/git-topics-0.0.2.tgz#4659ccb5d1d657d561bf1882bdbd74e7be977c8b"
   dependencies:
     axios "^0.16.2"
     git-url-uglify "^0.0.2"

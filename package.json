@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "chalk": "^2.1.0",
-    "git-topics": "^0.0.1",
+    "git-topics": "^0.0.2",
     "inquirer": "^3.3.0",
     "meow": "^3.7.0",
     "save-local": "^0.0.1",
